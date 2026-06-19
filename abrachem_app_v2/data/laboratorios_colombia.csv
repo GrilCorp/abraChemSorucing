@@ -1,0 +1,61 @@
+nombre,pais,rubro,n_productos,productos
+LABORATORIO GENFAR S.A.,COL,farmacéutico,10,Ibuprofeno 400mg tabletas|Paracetamol 500mg tabletas|Amoxicilina 500mg cápsulas|Ciprofloxacino 500mg tabletas|Metformina 850mg tabletas|Enalapril 10mg tabletas|Omeprazol 20mg cápsulas|Losartan 50mg tabletas|Atorvastatina 20mg tabletas|Loratadina 10mg tabletas
+LABORATORIO FARMACÉUTICO SYNTHESIS COLOMBIA,COL,veterinario,10,Ivermectina 1% inyectable|Praziquantel comprimidos|Albendazol oral|Enrofloxacino inyectable|Oxitetraciclina inyectable|Florfenicol inyectable|Tilmicosin solución|Fipronil spray|Permetrina pour-on|Amoxicilina inyectable
+LABORATORIO LAPROFF S.A.,COL,farmacéutico,10,Azitromicina 500mg tabletas|Claritromicina 500mg tabletas|Cefalexina 500mg cápsulas|Amoxicilina + Clavulanico 875mg|Levofloxacino 500mg tabletas|Doxiciclina 100mg cápsulas|Metronidazol 500mg tabletas|Fluconazol 150mg cápsulas|Nitrofurantoína 100mg|Trimetoprima + Sulfametoxazol tabletas
+LABORATORIO TECNIGEN COLOMBIA,COL,farmacéutico,10,Risedronato 35mg tabletas|Alendronato 70mg tabletas|Calcio + Vitamina D3 tabletas|Raloxifeno 60mg tabletas|Vitamina D3 5000UI cápsulas|Vitamina K2 100mcg cápsulas|Colecalciferol 10000UI gotas|Magnesio + Calcio tabletas|Zinc 30mg tabletas|Selenio 200mcg cápsulas
+LABORATORIO CINFA COLOMBIA,COL,farmacéutico,10,Gabapentina 300mg cápsulas|Pregabalina 150mg cápsulas|Duloxetina 60mg cápsulas|Mirtazapina 30mg tabletas|Amitriptilina 25mg tabletas|Nortriptilina 25mg tabletas|Trazodona 100mg tabletas|Bupropión 150mg tabletas|Litio 300mg tabletas|Lamotrigina 100mg tabletas
+LABORATORIO HELIOS COLOMBIA,COL,dermocosmética,10,Niacinamida 10% sérum|Ácido hialurónico sérum|Retinol 0.5% crema noche|Vitamina C 15% sérum|SPF 50 tinte mineral|Cleanser gel limpiador|Tónico AHA 5%|Mascarilla hidratante|Contorno de ojos cafeína|Crema facial anti-manchas
+LABORATORIO VETSANA COLOMBIA,COL,veterinario,10,Fipronil + S-metopreno spot-on|Milbemax masticables|NexGard masticables|Bravecto masticables|Simparica masticables|Credelio masticables|Selamectina spot-on|Afoxolaner masticables|Fluralaner masticables|Sarolaner masticables
+LABORATORIO ELANCO COLOMBIA,COL,veterinario,10,Enrofloxacino 10% inyectable|Tilosina tartrato inyectable|Florfenicol 30% inyectable|Tiamulin 10% inyectable|Danofloxacino inyectable|Marbofloxacino comprimidos|Excenel ceftiofur inyectable|Rimadyl carprofen comprimidos|Metacam meloxicam|Gallimycin eritromicina
+LABORATORIO BLASKOV S.A.,COL,veterinario,10,Ivermectina 3.15% inyectable|Doramectina 1% inyectable|Closantel inyectable|Levamisol oral|Fenbendazol oral|Triclabendazol suspensión|Rafoxanida + Levamisol|Nitroxinil inyectable|Febantel + Praziquantel|Moxidectina pour-on
+LABORATORIO QUIMICOBIÓLOGICOS S.A.,COL,farmacéutico,10,Dexametasona 4mg/ml inyectable|Metilprednisolona 500mg inyectable|Hidrocortisona 100mg inyectable|Betametasona fosfato inyectable|Budesonida nebulización 0.25mg|Fluticasona spray nasal 50mcg|Mometasona spray nasal|Beclometasona inhalador|Deflazacort 6mg tabletas|Prednisona 50mg tabletas
+LABORATORIO NATURAL BOTANICS COLOMBIA,COL,fitoterapia,10,Valeriana 500mg cápsulas|Pasiflora 300mg cápsulas|Hipérico 300mg tabletas|Ginkgo biloba 120mg cápsulas|Equinácea 400mg cápsulas|Cúrcuma 500mg cápsulas|Jengibre 250mg cápsulas|Maca 500mg cápsulas|Ashwagandha 300mg cápsulas|Moringa 400mg cápsulas
+LABORATORIO MERCK COLOMBIA,COL,farmacéutico,10,Metformina 850mg tabletas|Glibenclamida 5mg tabletas|Levotiroxina 50mcg tabletas|Bisoprolol 5mg tabletas|Simvastatina 20mg tabletas|Rosuvastatina 10mg tabletas|Ezetimiba 10mg tabletas|Pantoprazol 40mg tabletas|Esomeprazol 40mg tabletas|Domperidona 10mg tabletas
+LABORATORIO VITROFARMA S.A.,COL,farmacéutico,10,Metotrexato 2.5mg tabletas|Ciclofosfamida 50mg tabletas|Tamoxifeno 20mg tabletas|Capecitabina 500mg tabletas|Hidroxiurea 500mg cápsulas|Allopurinol 300mg tabletas|Colchicina 0.5mg tabletas|Sulfasalazina 500mg tabletas|Hidroxicloroquina 200mg tabletas|Leflunomida 20mg tabletas
+LABORATORIO MEAD JOHNSON COLOMBIA,COL,nutracéutico,10,Creatina monohidrato polvo|Proteína Whey polvo|BCAA cápsulas|Glutamina polvo|Multivitamínico tabletas|Vitamina C 2000mg polvo|Omega 3 1000mg cápsulas|Proteína vegana polvo|Coenzima Q10 100mg cápsulas|Spirulina 500mg tabletas
+LABORATORIO CALOX COLOMBIA,COL,farmacéutico,10,Amoxicilina 250mg/5ml suspensión|Cefalexina 250mg/5ml suspensión|Ibuprofeno 100mg/5ml suspensión|Paracetamol 150mg/5ml gotas|Azitromicina 200mg/5ml suspensión|Ibuprofeno gotas pediátrico|Loratadina 5mg/5ml|Cetirizina 5mg/5ml|Domperidona 1mg/ml gotas|Dimeticona 40mg/ml gotas
+LABORATORIO SCANDINAVIA COLOMBIA,COL,farmacéutico,10,Aciclovir 400mg tabletas|Valaciclovir 1g tabletas|Oseltamivir 75mg cápsulas|Ivermectina 6mg tabletas|Nitazoxanida 500mg tabletas|Albendazol 400mg tabletas|Mebendazol 100mg tabletas|Praziquantel 600mg tabletas|Tinidazol 500mg tabletas|Secnidazol 500mg tabletas
+LABORATORIO RECAMIER S.A.,COL,cosmética,10,Crema facial hidratante|Filtro solar SPF 50|Crema de noche anti-age|Contorno de ojos|Sérum vitamina C|Sérum ácido hialurónico|Gel limpiador facial|Tónico facial|Mascarilla hidratante|Crema corporal urea 10%
+LABORATORIO ROCHE COLOMBIA,COL,farmacéutico,10,Metotrexato 2.5mg tabletas|Capecitabina 500mg tabletas|Tamoxifeno 20mg tabletas|Anastrozol 1mg tabletas|Letrozol 2.5mg tabletas|Bevacizumab inyectable|Trastuzumab inyectable|Rituximab inyectable|Atezolizumab inyectable|Osimertinib tabletas
+LABORATORIO PROCAPS S.A.,COL,farmacéutico,10,Omega 3 1000mg cápsulas blandas|Vitamina E 400UI cápsulas|Coenzima Q10 100mg cápsulas|Glucosamina + Condroitina tabletas|Ácido hialurónico 150mg cápsulas|Colágeno hidrolizado polvo|Calcio carbonato 1250mg cápsulas|Vitamina D3 2000UI cápsulas|Luteína + Zeaxantina cápsulas|Espirulina 500mg tabletas
+LABORATORIO NOVAMED S.A.,COL,farmacéutico,10,Atorvastatina 40mg tabletas|Amlodipino 10mg tabletas|Carvedilol 25mg tabletas|Metoprolol 100mg tabletas|Furosemida 40mg tabletas|Espironolactona 25mg tabletas|Losartan 100mg tabletas|Enalapril 20mg tabletas|Bisoprolol 5mg tabletas|Warfarina 5mg tabletas
+LABORATORIO BUSSIÉ S.A.,COL,farmacéutico,10,Escitalopram 10mg tabletas|Venlafaxina 75mg cápsulas|Mirtazapina 30mg tabletas|Quetiapina 100mg tabletas|Risperidona 2mg tabletas|Olanzapina 10mg tabletas|Gabapentina 300mg cápsulas|Duloxetina 60mg cápsulas|Bupropión 150mg tabletas|Amitriptilina 25mg tabletas
+LABORATORIO PFIZER COLOMBIA,COL,farmacéutico,10,Atorvastatina 80mg tabletas|Pregabalina 150mg cápsulas|Celecoxib 200mg cápsulas|Azitromicina 500mg tabletas|Sildenafil 50mg tabletas|Tadalafil 20mg tabletas|Doxiciclina 100mg cápsulas|Fluconazol 150mg cápsulas|Amoxicilina + Clavulanico|Ciprofloxacino 750mg tabletas
+LABORATORIO SANOFI COLOMBIA,COL,farmacéutico,10,Insulina glargina inyectable|Insulina lispro inyectable|Metformina 1000mg tabletas|Glimepirida 4mg tabletas|Sitagliptina 100mg tabletas|Empagliflozina 10mg tabletas|Dapagliflozina 10mg tabletas|Clopidogrel 75mg tabletas|Rivaroxabana 20mg tabletas|Apixabana 5mg tabletas
+LABORATORIO BAYER COLOMBIA,COL,farmacéutico,10,Rivaroxabana 20mg tabletas|Apixabana 5mg tabletas|Warfarina 5mg tabletas|Clopidogrel 75mg tabletas|Ácido acetilsalicílico 100mg|Rosuvastatina 10mg tabletas|Valsartan 80mg tabletas|Amlodipino + Olmesartan tabletas|Telmisartan 40mg tabletas|Irbesartan 150mg tabletas
+LABORATORIO TECNOQUÍMICAS S.A.,COL,farmacéutico,10,Sertralina 50mg tabletas|Fluoxetina 20mg cápsulas|Alprazolam 0.5mg tabletas|Clonazepam 2mg tabletas|Carbamazepina 200mg tabletas|Pregabalina 75mg cápsulas|Levotiroxina 50mcg tabletas|Prednisona 20mg tabletas|Glibenclamida 5mg|Salbutamol aerosol
+LABORATORIO GRUNENTHAL COLOMBIA,COL,farmacéutico,10,Tramadol 50mg cápsulas|Tramadol + Paracetamol tabletas|Tapentadol 50mg tabletas|Ketorolac 10mg tabletas|Naproxeno sódico 550mg tabletas|Meloxicam 15mg tabletas|Nimesulida 100mg granulado|Aceclofenaco 100mg tabletas|Celecoxib 100mg cápsulas|Etoricoxib 60mg tabletas
+LABORATORIO ABOTT COLOMBIA,COL,farmacéutico,10,Ácido valproico 500mg tabletas|Fenitoína 100mg cápsulas|Fenobarbital 100mg tabletas|Lamotrigina 100mg tabletas|Levetiracetam 500mg tabletas|Topiramato 50mg tabletas|Oxcarbazepina 300mg tabletas|Gabapentina 300mg cápsulas|Carbamazepina 200mg tabletas|Clonazepam 2mg tabletas
+LABORATORIO ALMIRALL COLOMBIA,COL,dermocosmética,10,Tretinoína crema 0.025%|Adapaleno gel 0.1%|Ácido azelaico crema 20%|Ácido salicílico 2% gel|Niacinamida 10% sérum|Vitamina C 15% sérum|Retinol 0.5% crema|Filtro solar SPF 50|Limpiador suave|Tónico sin alcohol
+LABORATORIO BIOFAR S.A.,COL,farmacéutico,10,Progesterona 100mg cápsulas|Levonorgestrel 0.75mg tabletas|Drospirenona + Etinilestradiol|Desogestrel 75mcg tabletas|Tibolona 2.5mg tabletas|Clomifeno 50mg tabletas|Estradiol gel 0.1%|Medroxiprogesterona inyectable|Dienogest 2mg tabletas|Danazol 200mg cápsulas
+LABORATORIO LAFRANCOL S.A.,COL,farmacéutico,10,Risedronato 35mg tabletas|Alendronato 70mg tabletas|Calcio + Vitamina D3 tabletas|Vitamina D3 5000UI cápsulas|Vitamina C 1000mg tabletas|Ácido fólico 5mg tabletas|Vitamina B12 1000mcg tabletas|Hierro fumarato 300mg|Zinc 30mg tabletas|Magnesio 300mg tabletas
+COLOMBIA LABORATORIO FARMACÉUTICO,Colombia,farmacéutico,2,
+LABORATORIOS MIDAF S.A.C,Colombia,farmacéutico,2,
+CRYNSSEN PHARMA,Colombia,farmacéutico,2,
+LABORATORIO LABORATORIO FARMACÉUTICO,Colombia,farmacéutico,2,
+LABORATORIOS FARMACÉUTICOS EN COLOMBIA,Colombia,farmacéutico,2,
+COLOMBIA FARMA,Colombia,farmacéutico,2,
+LABORATORIOS TIERWELT,Colombia,farmacéutico,2,
+QUÍMICOS FARMACÉUTICOS,Colombia,farmacéutico,2,
+LABORATORIOS PROVET S.A.S,Colombia,farmacéutico,2,
+LABORATORIOS SIEGFRIED S.A.C,Colombia,farmacéutico,2,
+NEVOX FARMA,Colombia,farmacéutico,2,
+EMPRESA FARMACÉUTICA,Colombia,farmacéutico,2,
+MARCAS FARMA,Colombia,farmacéutico,2,
+LABORATORIOS BIOMONT S.A,Colombia,farmacéutico,2,
+LABORATORIOS FARMACÉUTICOS,Colombia,farmacéutico,2,
+LABORATORIOS LANSIER S.A.C,Colombia,farmacéutico,2,
+LABORATORIOS FARMACÉUTICOS MARKOS,Colombia,farmacéutico,2,
+LABORATORIOS ELIFARMA S.A,Colombia,farmacéutico,2,
+LABORATORIO ROXFARMA S.A,Colombia,farmacéutico,2,
+INDUSTRIA FARMACÉUTICA EMPRESAS,Colombia,farmacéutico,2,
+LABORATORIOS FARMA,Colombia,farmacéutico,2,
+ABBOTT LABORATORIES,Colombia,farmacéutico,2,
+LABORATORIO FARMACÉUTICO AMÉRICA S.R.L,Colombia,farmacéutico,2,
+EMPRESAS FARMACÉUTICAS,Colombia,farmacéutico,2,
+LABORATORIOS BAGÓ,Colombia,farmacéutico,2,
+GRUPO FARMA,Colombia,farmacéutico,2,
+INDUSTRIA FARMACÉUTICA,Colombia,farmacéutico,2,
+LABORATORIOS FARMACEUTICOS,Colombia,farmacéutico,2,
+LABORATORIO FARMACÉUTICO,Colombia,farmacéutico,2,
+LABORATORIOS FARMA LABORATORIO FARMACÉUTICO,Colombia,farmacéutico,2,
